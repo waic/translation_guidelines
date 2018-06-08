@@ -73,7 +73,7 @@ if節、when節の限定条件を示すときは、「場合」、「とき」�
 - Example は「例」とします。
 
 ## W3C文書に出現するRFC 2119キーワード【H】
-RFC 2119キーワードmust、should、recommended、may、should not、must notは原則として次のように訳します。
+RFC 2119キーワードmust、should、recommended、may、should not、must notは原則として次のように訳します。ただし、非規範部分（non-normativeやinfomativeと明示されているセクション、および注記部分）を除きます。
 - must（～しなければならない）
 - should（～すべきである）
 - recommended（～推奨される？）
