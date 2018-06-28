@@ -72,18 +72,17 @@ if節、when節の限定条件を示すときは、「場合」、「とき」�
 - Example は「例」とします。
 
 ## W3C文書に出現するRFC 2119キーワード【H】
-[RFC 2119](https://www.ipa.go.jp/security/rfc/RFC2119JA.html)キーワードmust、should、recommended、may、should not、must notは原則として次のように訳します。
-- must（〜しなければならない）
-- should（〜すべきである）
-- recommended（〜推奨される？）
-- may（〜してもよい）
-- should not（〜すべきでない）
-- must not（〜してはならない）
+[RFC 2119](https://www.ipa.go.jp/security/rfc/RFC2119JA.html)キーワードmust、should、recommended、may、should not、must notは原則として次のように訳します。ただし、非規範部分（non-normativeやinfomativeと明示されているセクション、および注記部分）を除きます。
+- must（～しなければならない）
+- should（～すべきである）
+- recommended（～推奨される？）
+- may（～してもよい）
+- should not（～すべきでない）
+- must not（～してはならない）
 
 これ以外の語に、キーワードに当たる訳出はしないように心掛けます。例えば、"have to"は学校英語では"must"に置き換えられるとされますが、規格類の訳出では置換できないものとして扱います。例えば、"have to"は「〜する必要がある」とします。
 should, should notはJIS Z 8301では（〜すべきである、〜すべきでない）とは訳出しないとされていますが、現行のWCAG 2.0日本語訳がこのようになっているため、これに合わせます。
 
 ## W3C文章の軽微な修正・原文にない補足
 原文の単純な誤字・脱字の場合、日本語訳で断りなく修正してもよいです。【7.1】
-
 日本語訳で補足が必要と思われる場合、「訳註」で追記することも可能です。
