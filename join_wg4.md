@@ -22,5 +22,5 @@ WAIC（ウェブアクセシビリティ基盤委員会）翻訳ワーキング�
 - [WCAG 2.0達成方法集（メンテナンス）](https://waic.jp/docs/WCAG-TECHS/Overview.html)
 - [WCAG 2クイックリファレンス](https://waic.jp/docs/WCAG20/quickref/)
 - [WCAG 2.1](https://waic.jp/docs/WCAG21/)
-- ATAG 2.0
+- [ATAG 2.0](https://waic.jp/docs/ATAG20/)
 
