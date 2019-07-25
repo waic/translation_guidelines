@@ -78,6 +78,7 @@ WCAG 2.0の関連文書、例えば解説書や達成方法集のみならず、
 ## 専門用語【G.3.1】
 - [WCAG 2.0 附録A 用語集](https://waic.jp/docs/WCAG20/Overview.html#glossary)に用語として記載のあるものは、これに従います。
 - [WCAG 2.0](https://waic.jp/docs/WCAG20/Overview.html)の本文に訳出のある語も、これに従うこととします。
+- [WG4用語集](https://docs.google.com/spreadsheets/d/1V8wX-pxAO-zuYwTSvTSuZ_FtnV47su6Tyy2vM5GEOLw/edit#gid=0)にある語は、これに従うことにします。
 
 WCAG 2.0に出現しない用語は、カタカナ書きが受け入れられているものであれば、カタカナで表記することとします。そうでなければ、カタカナ以外の何らかの訳語を当てることとします。
 カタカナ書きの表記ルールは、後述します。
