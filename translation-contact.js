@@ -3,7 +3,7 @@
  * `<a href="" id="file-issue"></a>`のURLとリンクテキストを書き換えます。
  */
 const form_url_prefix = "https://docs.google.com/forms/d/e/1FAIpQLSdIpvogLx8kGIMewhQ6MzhG2pOCQZ50iIBViGg8pUrRJuslKg/viewform?entry.685195438=";
-const form_link_text = "翻訳に関するコメント (Google フォーム)";
+const form_link_text = "翻訳に関するお問い合わせ (Google フォーム)";
 const target_id = "file-issue";
 
 document.addEventListener("DOMContentLoaded", () => {    
